@@ -1,5 +1,5 @@
 // This is for things like detecting game version changes if I want to update the game for everyone, and saving data.
 [
-  Data = "0.2",
-  Game = "0.1"
+  "Data": "0.2",
+  "Game": "0.1"
 ]
